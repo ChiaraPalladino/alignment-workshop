@@ -1,8 +1,14 @@
-# alignment-workshop
-This repository groups material for the alignment workshop of "Deconstructing OGL" 
+# Materials for translation alignment exercises on Ugarit 
+This repository contains materials to test Ugarit with various translation alignment exercises. Text versions are taken from raw OCR outputs of ancient texts and translations in modern languages. As always, you can copy the corresponding original in Greek or Latin from Perseus.
 
-# What is in this repository:  
-* Various text versions retrievable from CTS URNs: copy the CTS URN given in the document in the appropriate section of Ugarit, and click on "Fetch" to retrieve the text. Remember to change the last number according to the chapter you want to retrieve.
-* Text versions taken from raw OCR outputs of translations in modern languages. As always, you can copy the corresponding original in Greek or Latin from Perseus. 
-* Links to other repositories of OGL, where you can find more OCR outputs of modern translations, in XML format. The languages available include French, Italian and German.
-* A folder with several version of the first poem of the Persian Diwan Hafez.   
+# Other repositories of freely accessible parallel texts: 
+
+* The bible corpus: a multilingual parallel corpus created from translations of the Bible: https://github.com/christos-c/bible-corpus.
+* Quran Translations: https://tanzil.net/trans/
+
+# Material on Ugarit and translation alignment: 
+
+* Ugarit Translation Alignment Editor: https://ugarit.ialigner.com/
+* Ugarit Automatic Translation Alignment Tool (Beta): http://ugarit-aligner.com/
+* Alignment Gold Standards for Ancient Greek (including guidelines): https://github.com/UgaritAlignment/Alignment-Gold-Standards
+
