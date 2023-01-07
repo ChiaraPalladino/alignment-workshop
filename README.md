@@ -1,6 +1,9 @@
 # Materials for translation alignment exercises on Ugarit 
 This repository contains materials to test Ugarit with various translation alignment exercises. Text versions are taken from raw OCR outputs of ancient texts and translations in modern languages. As always, you can copy the corresponding original in Greek or Latin from Perseus.
 
+# Our Slides: 
+* Ancient MakerSpaces SCS 2023: https://docs.google.com/presentation/d/1DfUFFWOTU1y5KiVhjBjn2U2pheXqirxkaOxciDuuPl4/edit?usp=sharing
+
 # Other repositories of freely accessible parallel texts: 
 
 * The bible corpus: a multilingual parallel corpus created from translations of the Bible: https://github.com/christos-c/bible-corpus.
