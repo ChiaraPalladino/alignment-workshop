@@ -6,8 +6,7 @@ In the pdf file you will also find a commented version of the first poem, with f
 
 You can see the fully aligned version between Persian and English (and the corresponding paragraphs in German) at the following link: http://divan-hafez.com/res.php?word=Saki&language=eng  
 
-The aligned version of the entire Diwan Hafez is here: http://divan-hafez.com/  
-
+The aligned version of the entire Diwan Hafez is here: http://divan-hafez.com/
 
 
 

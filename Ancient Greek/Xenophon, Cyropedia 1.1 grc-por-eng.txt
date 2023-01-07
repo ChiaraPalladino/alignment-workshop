@@ -1,0 +1,21 @@
+Xenophon, Cyropedia 1.1
+
+Credits: 
+Greek: http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:1.1.1
+English: http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg007.perseus-eng1:1.1.1
+Portuguese: E. Cerdas
+
+Greek
+
+ἔννοιά ποθ᾽ ἡμῖν ἐγένετο ὅσαι δημοκρατίαι κατελύθησαν ὑπὸ τῶν ἄλλως πως βουλομένων πολιτεύεσθαι μᾶλλον ἢ ἐν δημοκρατίᾳ, ὅσαι τ᾽ αὖ μοναρχίαι, ὅσαι τε ὀλιγαρχίαι ἀνῄρηνται ἤδη ὑπὸ δήμων, καὶ ὅσοι τυραννεῖν ἐπιχειρήσαντες οἱ μὲν αὐτῶν καὶ ταχὺ πάμπαν κατελύθησαν, οἱ δὲ κἂν ὁποσονοῦν χρόνον ἄρχοντες διαγένωνται, θαυμάζονται ὡς σοφοί τε καὶ εὐτυχεῖς ἄνδρες γεγενημένοι. πολλοὺς δ᾽ ἐδοκοῦμεν καταμεμαθηκέναι καὶ ἐν ἰδίοις οἴκοις τοὺς μὲν ἔχοντας καὶ πλείονας οἰκέτας, τοὺς δὲ καὶ πάνυ ὀλίγους, καὶ ὅμως οὐδὲ τοῖς ὀλίγοις τούτοις πάνυ τι δυναμένους χρῆσθαι πειθομένοις τοὺς δεσπότας.
+
+
+
+Portuguese
+
+Ocorreu a nós, certa vez, o pensamento de quantas democracias foram dissolvidas por aqueles que desejavam mais viver como cidadãos de algum outro regime do que na democracia e, por sua vez, de quantas monarquias, quantas oligarquias foram aniquiladas pelos povos. Dos que empreenderam a tirania, enquanto alguns deles foram derrubados rápido e totalmente, outros, tanto quanto fosse o tempo que governaram, são admirados por terem se tornado homens sábios e afortunados. Parecíamos ter observado, além disso, que muitos, em suas próprias casas, tanto quem tem numerosos servos, como quem tem muito poucos, nem mesmo os senhores de pouquíssimos servos conseguiam que a obediência fosse observada.
+
+
+English (Miller)
+
+The thought once occurred to us how many1 republics have been overthrown by people who preferred to live under any form of government other than a republican, and again, how many monarchies and how many oligarchies in times past have been abolished by the people. We reflected, moreover, how many of those individuals who have aspired to absolute power have either been deposed once for all and that right quickly; or if they have continued in power, no matter for how short a time, they are objects of wonder as having proved to be wise and happy men. Then, too, we had observed, we thought, that even in private homes some people who had rather more than the usual number of servants and some also who had only a very few were nevertheless, though nominally masters, quite unable to assert their authority over even those few.

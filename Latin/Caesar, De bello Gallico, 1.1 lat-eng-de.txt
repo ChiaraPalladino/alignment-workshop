@@ -1,0 +1,18 @@
+Caesar, De bello Gallico, 1.1
+
+Credits: 
+Latin and English: https://scaife.perseus.org/library/urn:cts:latinLit:phi0448.phi001/
+German: https://github.com/OpenGreekAndLatin/german_trans-dev
+
+Latin
+
+Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. Eorum una pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones.
+
+
+English
+
+All Gaul is divided into three parts, one of which the Belgae inhabit, the Aquitani another, those who in their own language are called Celts, in our Gauls, the third. All these differ from each other in language, customs and laws. The river Garonne separates the Gauls from the Aquitani; the Marne and the Seine separate them from the Belgae. Of all these, the Belgae are the bravest, because they are furthest from the civilization and refinement of [our] Province, and merchants least frequently resort to them, and import those things which tend to effeminate the mind; and they are the nearest to the Germans, who dwell beyond the Rhine, with whom they are continually waging war; for which reason the Helvetii also surpass the rest of the Gauls in valor, as they contend with the Germans in almost daily battles, when they either repel them from their own territories, or themselves wage war on their frontiers. One part of these, which it has been said that the Gauls occupy, takes its beginning at the river Rhone; it is bounded by the river Garonne, the ocean, and the territories of the Belgae; it borders, too, on the side of the Sequani and the Helvetii, upon the river Rhine, and stretches toward the north. 
+
+German
+
+Gallien im weiteren Sinne zerfällt in drei Theile: den einen bewohnen die Belgier, den zweiten die Aquitanier, den dritten die Völkerschaften, welche in ihrer eigenen Sprache Celten, in der unsrigen Gallier heißen. Jeder dieser drei Stämme hat seine besondere Sprache, Einrichtungen, Gesetze. Zwischen den Galliern und Aquitaniern bildet die Garumna (Garonne), zwischen den Galliern und Belgiern die Matrona (Marne) und Sequana (Seine) die Grenze. Bon ihnen allen die Tapfersten sind die Belgier; denn einmal kommen sie mit dem Wohlleben und der Bildung der Provinz am wenigsten in Berührung und ist der Handelsverkehr und die Einfuhr von Luxusartikeln bei ihnen überaus spärlich, so dann stoßen sie unmittelbar an die Germanen jenseits des Rheins und liegen mit ihnen beständig im Kriege. Und das ist's auch, weß halb die Helvetier mannhafter sind als die übrigen Gallier, weil sie fast tagtäglich mit den Germanen sich herumschlagen, bald bei Vertheidigung des eigenen Gebietes, bald bei Einfällen in das Gebiet der Germanen. Der Theil also, den, wie gesagt, die Gallier inne haben, beginnt beim Rhodanus (Rhone), wird dann von der Garumna, dem Ocean und Belgien begrenzt und stößt endlich mit dem Lande der Sequaner und Helvetier an den Rhein: er dehnt sich in nördlicher Richtung aus. 

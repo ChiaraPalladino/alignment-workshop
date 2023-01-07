@@ -1,0 +1,112 @@
+Lucretius, De Rerum Natura 1-30
+
+Credits: 
+Latin and English: https://scaife.perseus.org/library/urn:cts:latinLit:phi0550.phi001/
+German: https://github.com/OpenGreekAndLatin/german_trans-dev
+
+Latin
+
+Aeneadum genetrix, hominum divomque voluptas,
+alma Venus, caeli subter labentia signa
+quae mare navigerum, quae terras frugiferentis
+concelebras, per te quoniam genus omne animantum
+concipitur visitque exortum lumina solis:
+te, dea, te fugiunt venti, te nubila caeli
+adventumque tuum, tibi suavis daedala tellus
+summittit flores, tibi rident aequora ponti
+placatumque nitet diffuso lumine caelum.
+nam simul ac species patefactast verna diei
+et reserata viget genitabilis aura favoni,
+aeriae primum volucris te, diva, tuumque
+significant initum perculsae corda tua vi.
+inde ferae pecudes persultant pabula laeta
+et rapidos tranant amnis: ita capta lepore
+te sequitur cupide quo quamque inducere pergis.
+denique per maria ac montis fluviosque rapacis
+frondiferasque domos avium camposque virentis
+omnibus incutiens blandum per pectora amorem
+efficis ut cupide generatim saecla propagent.
+quae quoniam rerum naturam sola gubernas
+nec sine te quicquam dias in luminis oras
+exoritur neque fit laetum neque amabile quicquam,
+te sociam studeo scribendis versibus esse,
+quos ego de rerum natura pangere conor
+Memmiadae nostro, quem tu, dea, tempore in omni
+omnibus ornatum voluisti excellere rebus.
+quo magis aeternum da dictis, diva, leporem.
+effice ut interea fera moenera militiai
+per maria ac terras omnis sopita quiescant;
+
+English
+
+Mother of Rome, delight of Gods and men,
+Dear Venus that beneath the gliding stars
+Makest to teem the many-voyaged main
+And fruitful lands- for all of living things
+Through thee alone are evermore conceived,
+Through thee are risen to visit the great sun-
+Before thee, Goddess, and thy coming on,
+Flee stormy wind and massy cloud away,
+For thee the daedal Earth bears scented flowers,
+For thee waters of the unvexed deep
+Smile, and the hollows of the serene sky
+Glow with diffused radiance for thee!
+For soon as comes the springtime face of day,
+And procreant gales blow from the West unbarred,
+First fowls of air, smit to the heart by thee,
+Foretoken thy approach, O thou Divine,
+And leap the wild herds round the happy fields
+Or swim the bounding torrents. Thus amain,
+Seized with the spell, all creatures follow thee
+Whithersoever thou walkest forth to lead,
+And thence through seas and mountains and swift streams,
+Through leafy homes of birds and greening plains,
+Kindling the lure of love in every breast,
+Thou bringest the eternal generations forth,
+Kind after kind. And since 'tis thou alone
+Guidest the Cosmos, and without thee naught
+Is risen to reach the shining shores of light,
+Nor aught of joyful or of lovely born,
+Thee do I crave co-partner in that verse
+Which I presume on Nature to compose
+For Memmius mine, whom thou hast willed to be
+Peerless in every grace at every hour-
+Wherefore indeed, Divine one, give my words
+Immortal charm. Lull to a timely rest
+O'er sea and land the savage works of war,
+For thou alone hast power with public peace
+To aid mortality;
+
+German
+
+Mutter der Aeneaden, der Sterblichen Wonn' und der Götter, 
+Venus, o du, die unter des Himmels gleitenden Lichtern
+Auf das besegelte Meer und die fruchtreich tsrotzenden Lande
+Freundlichen Glanz ausstrahlt: denn Was da lebet und webet
+Wird durch dich ja gezeugt und schauet die leuchtende Sonne.
+Vor dir fliehen die Winde, vor dir, o Göttin, die Wolken, 
+Wann du dich zeigst, dir bringt im farbigen Schmucke die Erde
+Liebliche Blumen hervor, dir lachen die Flächen des Meeres
+Und es ergießt allhin der beruhigte Himmel den Lichtglanz. 
+Denn, wie die Lenzesgestalt des Tags einmal sich enthüllt hat
+Und, von der Fessel befreit, des Favonius zeugender Hauch lebt, 
+Zeigen die Vögel der Lust allerst dich, Göttin, und deinen
+Eintritt an, von deiner Gewalt durchschüttert im Herzen.
+Wildsroh hüpfen sodann durch lachende Weiden die Heerden, 
+Schwimmen die reißenden Ströme hindurch: so folgen, von deinem
+Liebreiz und hinreißendem Zauber gefesselt, dir alle
+Lebenden Wesen mit Lust, wohin du jegliches anlockst. 
+Sag' ich es kurz: durch Meer' und Berg' und reißende Flüsse, 
+Durch umlaubete Horste der Vögel und grünende Fluren 
+Weckst in der Brust du Allen die süßen Gefühle der Liebe,
+Daß es sie treibt, in Geschlechtern sich fort und fort zu erneuen.
+Weil du einzig es bist und allein, die der Dinge Natur lenkt, 
+Und weil ohne dich Nichts an die göttlichen Pforten des Lichts tritt, 
+Nichts des Gedeihens sich freut, Nichts liebenswürdig erscheinen 
+Wünscht' ich als Beistand dich mir gern beim Dichten der Verse,
+Die von der Dinge Natur zu verfertigen jetzt ich versuche
+Unserem Memmiussohn, von dem du, Göttin, gewollt hast, 
+Daß fortwährend als Muster er glänz' in Allem und Jedem;
+Gib um so mehr, o Göttin, dem Ausdruck dauernde Anmuth. 
+Wirke du, daß indessen die wilden Geschäfte des Kriegsdiensts 
+Länder und Meer' hindurch allüberall sinken in Schlummer. 
