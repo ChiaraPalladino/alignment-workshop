@@ -3,6 +3,8 @@ This repository contains materials to test Ugarit with various translation align
 
 # Our Slides: 
 * Ancient MakerSpaces SCS 2023: https://docs.google.com/presentation/d/1DfUFFWOTU1y5KiVhjBjn2U2pheXqirxkaOxciDuuPl4/edit?usp=sharing
+* Ancient MakerSpaces SCS 2024 (Coming Soon!)
+* Essential Digital Classics SCS 2024 (Coming Soon!)
 
 # Other repositories of freely accessible parallel texts: 
 
