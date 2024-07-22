@@ -20,7 +20,7 @@ This repository contains materials to test Ugarit with various translation align
 * Ugarit Translation Alignment Editor: https://ugarit.ialigner.com/
 * Quick instructions on how to use the editor: https://ugarit.ialigner.com/howto.php
 * Ugarit Automatic Translation Alignment Tool (Beta): http://ugarit-aligner.com/
-* * Comparing the results of different annotators: https://ugarit.ialigner.com/IAA/ 
+* Comparing the results of different annotators: https://ugarit.ialigner.com/IAA/ 
 * Alignment Gold Standards for Ancient Greek (including guidelines): https://github.com/UgaritAlignment/Alignment-Gold-Standards
 * DFHG Automatic Translation Alignment: https://ugarit.ialigner.com/dfhg/
 * Additional bibliography available on the Ugarit website: https://ugarit.ialigner.com/bib.php
