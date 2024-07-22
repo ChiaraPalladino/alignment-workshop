@@ -22,10 +22,10 @@ This repository contains materials to test Ugarit with various translation align
 * Ugarit Automatic Translation Alignment Tool (Beta): http://ugarit-aligner.com/
 * Comparing the results of different annotators: https://ugarit.ialigner.com/IAA/ 
 * Alignment Gold Standards for Ancient Greek (including guidelines): https://github.com/UgaritAlignment/Alignment-Gold-Standards
-* DFHG Automatic Translation Alignment: https://ugarit.ialigner.com/dfhg/
-* Additional bibliography available on the Ugarit website: https://ugarit.ialigner.com/bib.php
+* Other Guidelines for annotating various language pairs: https://ugarit.ialigner.com/guidelines.php 
 
 # Useful references: 
+Additional bibliography available on the Ugarit website: https://ugarit.ialigner.com/bib.php   
 * Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F. (2023) ‘Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards’, Journal of Open Humanities Data, 9(1), p. 22. Available at: https://doi.org/10.5334/johd.131.  
 * T. Yousef, C. Palladino, D.J. Wright, M. Berti. "Automatic Translation Alignment for Ancient Greek and Latin". Proceedings of the LREC 2022 Second Workshop on Language Technologies for Historical and Ancient Languages LT4HALA 2022. Eds. R. Sprugnoli and M. Passarotti. European Language Resources Association (ELRA) 2022, 101-107. URL: http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.14.pdf   
 * T. Yousef, C. Palladino, F. Shamsian, A. d’Orange Ferreira, M. Ferreira dos Reis. "An automatic model and Gold Standard for translation alignment of Ancient Greek". Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022), Marseille, 20-25 June 2022, 5894–5905. URL: http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf
