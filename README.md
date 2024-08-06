@@ -2,7 +2,7 @@
 This repository contains materials to test Ugarit with various translation alignment exercises. Text versions are taken from raw OCR outputs of ancient/premodern texts and translations in modern languages. 
 
 ## Our Slides: 
-* DH2024 Washington: TBA 
+* DH2024 Washington: https://docs.google.com/presentation/d/15nXwhYjFCHRtIqUWirmYFEKx1ytwmU3matxrnPmnDAc/edit?usp=sharing 
 * Ancient MakerSpaces SCS 2023: https://docs.google.com/presentation/d/1DfUFFWOTU1y5KiVhjBjn2U2pheXqirxkaOxciDuuPl4/edit?usp=sharing
 * Ancient MakerSpaces SCS 2024 https://docs.google.com/presentation/d/1utuFRVjfOat_jQ--XbBSx8j1yHcjImuuCfSh_7g8L8s/edit?usp=sharing
 * Essential Digital Classics SCS 2024 https://docs.google.com/presentation/d/13KMdN-NZSlh4QVfFCYJuwv4ZnSiwjftY7PJcWZR2Ns4/edit?usp=sharing 
